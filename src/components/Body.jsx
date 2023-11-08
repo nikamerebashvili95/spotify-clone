@@ -1,5 +1,3 @@
-function Body() {
+export default function Body() {
   return <div>body</div>;
 }
-
-export default Body;
